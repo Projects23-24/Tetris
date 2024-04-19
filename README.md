@@ -42,6 +42,6 @@
 12. **Finite State Machines (FSM)**: Four game states implemented - Title screen, Loading, In-game, and Game Over. Transitions between states managed by FSM.
 
 <div align="center">
-    <img src="https://github.com/Projects23-24/Tetris/assets/98465500/77dc4b0c-b0b9-4f0b-8a94-71f0f17cafd0" alt="WhatsApp Image 2024-04-19 at 15 49 19 (1)" />
+    <img src="https://github.com/Projects23-24/Tetris/assets/98465500/77dc4b0c-b0b9-4f0b-8a94-71f0f17cafd0" alt="WhatsApp Image 2024-04-19 at 15 49 19 (1)" width="250"/>
 </div>
 
