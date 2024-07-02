@@ -1,6 +1,5 @@
 # Tetris
-
-## Arduino code for the project which showcases the fusion of hardware and software to recreate the classic game of Tetris in a physical form using LEDs.  Through meticulous planning and utilization of various materials and  components, the aim was to construct a tangible gaming experience that pays homage to the beloved retro game.
+Arduino code for the project which showcases the fusion of hardware and software to recreate the classic game of Tetris in a physical form using LEDs.  Through meticulous planning and utilization of various materials and  components, the aim was to construct a tangible gaming experience that pays homage to the beloved retro game.
 
   <div align="center">
     <img src="https://github.com/Projects23-24/Tetris/assets/98465500/c68feacb-83da-4cea-bdd5-8c8fab294656" alt="WhatsApp Image 2024-04-19 at 15 49 19" width="250" />
